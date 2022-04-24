@@ -1,0 +1,26 @@
+{
+  "name": "@kelp404/changelog.config",
+  "version": "0.1.0",
+  "description": "A conventional-changelog config.",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelp404/changelog.config.git"
+  },
+  "author": "Kelp <kelp@phate.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kelp404/changelog.config/issues"
+  },
+  "homepage": "https://github.com/kelp404/changelog.config#readme",
+  "dependencies": {
+    "compare-func": "2.0.0",
+    "q": "1.5.1"
+  }
+}
